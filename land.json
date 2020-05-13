@@ -1,0 +1,6 @@
+{
+    "imports": {},
+    "scripts": {
+        "run": "deno run main.ts"
+    }
+}
